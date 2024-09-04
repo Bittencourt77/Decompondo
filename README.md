@@ -1,0 +1,1 @@
+O projeto Decompondo tem como objetivo organizar e estruturar de maneira eficaz as etapas envolvidas na análise de perfis de consumidores em um ambiente de e-commerce. A decomposição do projeto em tarefas menores permite maior agilidade, foco e clareza em cada fase do processo, garantindo uma execução mais eficiente e organizada, seja realizada por um indivíduo ou por um grupo.
